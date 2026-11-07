@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "samsung",
+    "name": "سامسونگ",
+    "nameEn": "Samsung",
+    "origin": "کره جنوبی",
+    "description": "فناوری اینورتر دیجیتال، دوام بالا و خدمات پس از فروش گسترده در ایران.",
+    "featured": true
+  },
+  {
+    "slug": "lg",
+    "name": "ال‌جی",
+    "nameEn": "LG",
+    "origin": "کره جنوبی",
+    "description": "موتورهای اینورتر کم‌مصرف با گارانتی بلندمدت و طراحی مدرن.",
+    "featured": true
+  },
+  {
+    "slug": "bosch",
+    "name": "بوش",
+    "nameEn": "Bosch",
+    "origin": "آلمان",
+    "description": "بالاترین استانداردهای ساخت آلمان، بی‌صدا و کم‌مصرف.",
+    "featured": true
+  },
+  {
+    "slug": "snowa",
+    "name": "اسنوا",
+    "nameEn": "Snowa",
+    "origin": "ایران",
+    "description": "تولید داخل با کیفیت رقابتی و شبکه خدمات پس از فروش سراسری.",
+    "featured": true
+  },
+  {
+    "slug": "pakshoma",
+    "name": "پاکشوما",
+    "nameEn": "Pakshoma",
+    "origin": "ایران",
+    "description": "یکی از قدیمی‌ترین برندهای لوازم خانگی ایران با قطعات فراوان.",
+    "featured": true
+  },
+  {
+    "slug": "pars-khazar",
+    "name": "پارس خزر",
+    "nameEn": "Pars Khazar",
+    "origin": "ایران",
+    "description": "تخصص در لوازم خانگی کوچک با قیمت اقتصادی و گارانتی داخلی.",
+    "featured": true
+  },
+  {
+    "slug": "emersun",
+    "name": "امرسان",
+    "nameEn": "Emersun",
+    "origin": "ایران",
+    "description": "انتخاب اقتصادی با تنوع مدل بالا و قطعات در دسترس.",
+    "featured": false
+  },
+  {
+    "slug": "midea",
+    "name": "مایدیا",
+    "nameEn": "Midea",
+    "origin": "چین",
+    "description": "تولیدکننده بزرگ جهانی با تمرکز بر تهویه مطبوع و مصرف بهینه.",
+    "featured": false
+  },
+  {
+    "slug": "ariston",
+    "name": "آریستون",
+    "nameEn": "Ariston",
+    "origin": "ایتالیا",
+    "description": "کیفیت اروپایی در گرمایش و شست‌وشو با طراحی مینیمال.",
+    "featured": false
+  }
+]

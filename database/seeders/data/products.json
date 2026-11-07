@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "p-1001",
+    "slug": "samsung-side-by-side-rs68-28ft",
+    "name": "یخچال ساید بای ساید سامسونگ مدل RS68 ۲۸ فوت",
+    "category": "refrigerator",
+    "brand": "samsung",
+    "price": 89000000,
+    "compareAtPrice": 96500000,
+    "stock": 6,
+    "rating": 4.7,
+    "reviewCount": 128,
+    "shortDescription": "ساید بای ساید ۲۸ فوت با یخ‌ساز خودکار، اینورتر دیجیتال و نمایشگر دیجیتال.",
+    "description": "یخچال ساید بای ساید سامسونگ RS68 با فناوری خنک‌کنندگی ۳۶۰ درجه، سرمای یکنواخت را در تمام طبقات حفظ می‌کند. کمپرسور اینورتر دیجیتال مصرف برق را تا ۴۰٪ کاهش می‌دهد و صدای کارکرد آن محسوس نیست. یخ‌ساز و آب‌سردکن خودکار، بدون نیاز به اتصال به شیر آب هم کار می‌کند.",
+    "highlights": [
+      "یخ‌ساز خودکار با مخزن آب داخلی",
+      "کمپرسور اینورتر دیجیتال با گارانتی ۱۰ ساله",
+      "خنک‌کنندگی یکنواخت در تمام طبقات",
+      "نمایشگر دیجیتال و حالت تعطیلات"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "ساید بای ساید",
+        "group": "general"
+      },
+      {
+        "label": "تعداد درب",
+        "value": "۲ درب",
+        "group": "general"
+      },
+      {
+        "label": "یخ‌ساز",
+        "value": "خودکار",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "استیل نقره‌ای",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت کل",
+        "value": "۶۹۰ لیتر",
+        "group": "technical"
+      },
+      {
+        "label": "فناوری خنک‌کنندگی",
+        "value": "No Frost",
+        "group": "technical"
+      },
+      {
+        "label": "کمپرسور",
+        "value": "اینورتر دیجیتال",
+        "group": "technical"
+      },
+      {
+        "label": "تعداد طبقات یخچال",
+        "value": "۴ طبقه",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۹۱ × ۱۷۸ × ۷۳ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+",
+        "group": "energy"
+      },
+      {
+        "label": "مصرف سالانه",
+        "value": "۴۲۰ کیلووات‌ساعت",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "samsung",
+      "capacity": 690,
+      "capacityUnit": "لیتر",
+      "energyRating": "A+",
+      "color": "استیل نقره‌ای",
+      "widthCm": 91,
+      "heightCm": 178,
+      "depthCm": 73,
+      "inverter": true,
+      "warrantyMonths": 24,
+      "madeIn": "کره جنوبی",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "پرفروش",
+      "ارسال فوری",
+      "پیشنهاد ویژه"
+    ],
+    "relatedSlugs": [
+      "lg-french-door-gr-x267",
+      "bosch-bottom-freezer-kgn56",
+      "snowa-top-freezer-16ft"
+    ],
+    "publishedAt": "2026-06-12",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-1002",
+    "slug": "lg-french-door-gr-x267",
+    "name": "یخچال درب فرانسوی ال‌جی مدل GR-X267",
+    "category": "refrigerator",
+    "brand": "lg",
+    "price": 112000000,
+    "compareAtPrice": null,
+    "stock": 3,
+    "rating": 4.8,
+    "reviewCount": 74,
+    "shortDescription": "درب فرانسوی ۲۶ فوت با موتور اینورتر لینیِر و گارانتی ۱۰ ساله کمپرسور.",
+    "description": "یخچال درب فرانسوی ال‌جی با موتور اینورتر لینیِر، دوام و بازدهی بالاتری نسبت به کمپرسورهای معمولی دارد. سیستم خنک‌کنندگی چندگانه هوای سرد را مستقل به یخچال و فریزر می‌فرستد تا بوی غذاها با هم مخلوط نشود.",
+    "highlights": [
+      "موتور اینورتر لینیِر با گارانتی ۱۰ ساله",
+      "خنک‌کنندگی مستقل یخچال و فریزر",
+      "کشوهای محافظ رطوبت برای سبزیجات",
+      "طراحی بدون دستگیره (Push Open)"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "درب فرانسوی",
+        "group": "general"
+      },
+      {
+        "label": "تعداد درب",
+        "value": "۴ درب",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "مشکی مات",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت کل",
+        "value": "۶۵۰ لیتر",
+        "group": "technical"
+      },
+      {
+        "label": "فناوری خنک‌کنندگی",
+        "value": "Smart Cooling",
+        "group": "technical"
+      },
+      {
+        "label": "موتور",
+        "value": "اینورتر لینیِر",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۸۳ × ۱۷۸ × ۷۳ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A++",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "lg",
+      "capacity": 650,
+      "capacityUnit": "لیتر",
+      "energyRating": "A++",
+      "color": "مشکی مات",
+      "widthCm": 83,
+      "heightCm": 178,
+      "depthCm": 73,
+      "inverter": true,
+      "warrantyMonths": 36,
+      "madeIn": "کره جنوبی",
+      "installmentAvailable": true,
+      "readyToShip": false
+    },
+    "tags": [
+      "پرچمدار",
+      "کم‌مصرف"
+    ],
+    "relatedSlugs": [
+      "samsung-side-by-side-rs68-28ft",
+      "bosch-bottom-freezer-kgn56"
+    ],
+    "publishedAt": "2026-05-28",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-1003",
+    "slug": "snowa-top-freezer-16ft",
+    "name": "یخچال فریزر بالا اسنوا مدل S16 ۱۶ فوت",
+    "category": "refrigerator",
+    "brand": "snowa",
+    "price": 42500000,
+    "compareAtPrice": 46900000,
+    "stock": 14,
+    "rating": 4.4,
+    "reviewCount": 213,
+    "shortDescription": "یخچال فریزر بالا پایین ۱۶ فوت با تکنولوژی No Frost و بدنه ضدخش.",
+    "description": "یخچال فریزر اسنوا S16 گزینه‌ای اقتصادی و پرفروش برای خانواده‌های ایرانی است. سیستم No Frost از تشکیل یخ در فریزر جلوگیری می‌کند و نیازی به دیفراست دستی نیست.",
+    "highlights": [
+      "بدون نیاز به یخ‌زدایی دستی",
+      "قفسه‌های شیشه‌ای نشکن و قابل تنظیم",
+      "جایخیار و قوطی‌نوشابه در درب",
+      "خدمات پس از فروش سراسری اسنوا"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "بالا پایین",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت کل",
+        "value": "۴۶۰ لیتر",
+        "group": "technical"
+      },
+      {
+        "label": "فناوری",
+        "value": "No Frost",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۶۷ × ۱۷۲ × ۶۶ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "snowa",
+      "capacity": 460,
+      "capacityUnit": "لیتر",
+      "energyRating": "A+",
+      "color": "سفید",
+      "widthCm": 67,
+      "heightCm": 172,
+      "depthCm": 66,
+      "inverter": false,
+      "warrantyMonths": 18,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "اقتصادی",
+      "پرفروش",
+      "ارسال فوری"
+    ],
+    "relatedSlugs": [
+      "emersun-top-freezer-13ft",
+      "bosch-bottom-freezer-kgn56"
+    ],
+    "publishedAt": "2026-04-15",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-1004",
+    "slug": "bosch-bottom-freezer-kgn56",
+    "name": "یخچال فریزر پایین بوش مدل KGN56",
+    "category": "refrigerator",
+    "brand": "bosch",
+    "price": 78000000,
+    "compareAtPrice": null,
+    "stock": 4,
+    "rating": 4.9,
+    "reviewCount": 56,
+    "shortDescription": "کمبی پایین بوش با فناوری VitaFresh برای تازگی طولانی‌مدت مواد غذایی.",
+    "description": "یخچال بوش KGN56 با کشوی VitaFresh رطوبت و دما را مستقل تنظیم می‌کند و سبزیجات تا سه برابر بیشتر تازه می‌مانند. کمپرسور بی‌صدا و رده انرژی A++ آن را به گزینه‌ای کم‌هزینه در بلندمدت تبدیل کرده است.",
+    "highlights": [
+      "کشوی VitaFresh با کنترل رطوبت",
+      "کمپرسور کاملاً بی‌صدا",
+      "نورپردازی LED داخلی",
+      "تولید آلمان با کیفیت بوش"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "کمبی پایین",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "استیل ضدلک",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت کل",
+        "value": "۵۳۰ لیتر",
+        "group": "technical"
+      },
+      {
+        "label": "فناوری",
+        "value": "No Frost + VitaFresh",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۷۰ × ۲۰۰ × ۶۷ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A++",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "bosch",
+      "capacity": 530,
+      "capacityUnit": "لیتر",
+      "energyRating": "A++",
+      "color": "استیل",
+      "widthCm": 70,
+      "heightCm": 200,
+      "depthCm": 67,
+      "inverter": true,
+      "warrantyMonths": 36,
+      "madeIn": "آلمان",
+      "installmentAvailable": true,
+      "readyToShip": false
+    },
+    "tags": [
+      "کیفیت بالا",
+      "کم‌مصرف"
+    ],
+    "relatedSlugs": [
+      "lg-french-door-gr-x267",
+      "samsung-side-by-side-rs68-28ft"
+    ],
+    "publishedAt": "2026-03-02",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-1005",
+    "slug": "emersun-top-freezer-13ft",
+    "name": "یخچال فریزر امرسان مدل ۱۳ فوت",
+    "category": "refrigerator",
+    "brand": "emersun",
+    "price": 28900000,
+    "compareAtPrice": 32400000,
+    "stock": 22,
+    "rating": 4.1,
+    "reviewCount": 341,
+    "shortDescription": "یخچال فریزر اقتصادی ۱۳ فوت مناسب خانه‌های کوچک و دفتر کار.",
+    "description": "امرسان ۱۳ فوت با ابعاد جمع‌وجور، گزینه‌ای مناسب آپارتمان‌های کوچک است. قطعات آن در بازار به‌وفور یافت می‌شود و هزینه نگهداری پایینی دارد.",
+    "highlights": [
+      "ابعاد جمع‌وجور مناسب آپارتمان",
+      "قیمت اقتصادی با قطعات در دسترس",
+      "گارانتی ۱۸ ماهه",
+      "مصرف برق پایین"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "بالا پایین",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت کل",
+        "value": "۳۶۰ لیتر",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۶۰ × ۱۶۵ × ۶۲ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "emersun",
+      "capacity": 360,
+      "capacityUnit": "لیتر",
+      "energyRating": "A+",
+      "color": "سفید",
+      "widthCm": 60,
+      "heightCm": 165,
+      "depthCm": 62,
+      "inverter": false,
+      "warrantyMonths": 18,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "اقتصادی",
+      "ارسال فوری"
+    ],
+    "relatedSlugs": [
+      "snowa-top-freezer-16ft"
+    ],
+    "publishedAt": "2026-02-10",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-2001",
+    "slug": "lg-front-load-8kg-f4v5",
+    "name": "ماشین لباسشویی ال‌جی ۸ کیلویی مدل F4V5",
+    "category": "washer",
+    "brand": "lg",
+    "price": 38500000,
+    "compareAtPrice": 42000000,
+    "stock": 9,
+    "rating": 4.6,
+    "reviewCount": 187,
+    "shortDescription": "لباسشویی درب از جلو ۸ کیلو با موتور اینورتر و گارانتی ۱۰ ساله موتور.",
+    "description": "ال‌جی F4V5 با موتور اینورتر مستقیم (Direct Drive) لرزش و صدا را به حداقل می‌رساند و دوام موتور را افزایش می‌دهد. بخارشوی آلرژی‌زا، گرده و مایت را از لباس حذف می‌کند.",
+    "highlights": [
+      "موتور Direct Drive با گارانتی ۱۰ ساله",
+      "بخارشوی ضدحساسیت",
+      "۱۵ برنامه شست‌وشو",
+      "نمایشگر LED و قفل کودک"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "درب از جلو",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "تعداد برنامه",
+        "value": "۱۵",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۸ کیلوگرم",
+        "group": "technical"
+      },
+      {
+        "label": "دور موتور",
+        "value": "۱۴۰۰ دور در دقیقه",
+        "group": "technical"
+      },
+      {
+        "label": "موتور",
+        "value": "اینورتر Direct Drive",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۶۰ × ۸۵ × ۵۶ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+++",
+        "group": "energy"
+      },
+      {
+        "label": "مصرف آب هر دوره",
+        "value": "۴۸ لیتر",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "lg",
+      "capacity": 8,
+      "capacityUnit": "کیلوگرم",
+      "energyRating": "A+++",
+      "color": "سفید",
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 56,
+      "inverter": true,
+      "warrantyMonths": 24,
+      "madeIn": "کره جنوبی",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "پرفروش",
+      "ارسال فوری",
+      "کم‌مصرف"
+    ],
+    "relatedSlugs": [
+      "samsung-eco-bubble-9kg",
+      "bosch-serie6-washer-9kg"
+    ],
+    "publishedAt": "2026-06-20",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-2002",
+    "slug": "samsung-eco-bubble-9kg",
+    "name": "ماشین لباسشویی سامسونگ ۹ کیلویی اکوبابل",
+    "category": "washer",
+    "brand": "samsung",
+    "price": 45900000,
+    "compareAtPrice": 49800000,
+    "stock": 7,
+    "rating": 4.7,
+    "reviewCount": 156,
+    "shortDescription": "لباسشویی ۹ کیلویی با فناوری EcoBubble و شست‌وشوی سریع ۱۵ دقیقه‌ای.",
+    "description": "فناوری EcoBubble سامسونگ پودر را قبل از رسیدن به لباس در آب حل می‌کند و در دمای پایین هم نتیجه شست‌وشوی بهتری می‌دهد. برنامه Quick Wash در ۱۵ دقیقه لباس‌های کم‌آلود را شست‌وشو می‌دهد.",
+    "highlights": [
+      "فناوری EcoBubble برای شست‌وشو در دمای پایین",
+      "برنامه سریع ۱۵ دقیقه‌ای",
+      "موتور دیجیتال اینورتر",
+      "درام الماسی محافظ پارچه"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "درب از جلو",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۹ کیلوگرم",
+        "group": "technical"
+      },
+      {
+        "label": "دور موتور",
+        "value": "۱۴۰۰ دور در دقیقه",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۶۰ × ۸۵ × ۶۰ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+++",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "samsung",
+      "capacity": 9,
+      "capacityUnit": "کیلوگرم",
+      "energyRating": "A+++",
+      "color": "سفید",
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "inverter": true,
+      "warrantyMonths": 24,
+      "madeIn": "کره جنوبی",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "پرفروش",
+      "تخفیف ویژه",
+      "ارسال فوری"
+    ],
+    "relatedSlugs": [
+      "lg-front-load-8kg-f4v5",
+      "snowa-top-load-8kg"
+    ],
+    "publishedAt": "2026-07-01",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-2003",
+    "slug": "bosch-serie6-washer-9kg",
+    "name": "ماشین لباسشویی بوش سری ۶ ظرفیت ۹ کیلو",
+    "category": "washer",
+    "brand": "bosch",
+    "price": 62000000,
+    "compareAtPrice": null,
+    "stock": 5,
+    "rating": 4.8,
+    "reviewCount": 92,
+    "shortDescription": "سری ۶ بوش با موتور EcoSilence Drive و کم‌مصرف‌ترین رده انرژی بازار.",
+    "description": "بوش سری ۶ با موتور بدون جاروبک EcoSilence Drive، بی‌صدا و بادوام است. سیستم توزین خودکار مقدار آب و انرژی را بر اساس بار لباس تنظیم می‌کند.",
+    "highlights": [
+      "موتور EcoSilence Drive با گارانتی ۱۰ ساله",
+      "وزن‌سنجی خودکار بار لباس",
+      "ضدآب‌ریزی ۱۰۰٪ (AquaStop)",
+      "برنامه ضدحساسیت برای پوست حساس"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "درب از جلو",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۹ کیلوگرم",
+        "group": "technical"
+      },
+      {
+        "label": "دور موتور",
+        "value": "۱۲۰۰ دور در دقیقه",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۶۰ × ۸۵ × ۵۹ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+++",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "bosch",
+      "capacity": 9,
+      "capacityUnit": "کیلوگرم",
+      "energyRating": "A+++",
+      "color": "سفید",
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 59,
+      "inverter": true,
+      "warrantyMonths": 36,
+      "madeIn": "آلمان",
+      "installmentAvailable": true,
+      "readyToShip": false
+    },
+    "tags": [
+      "کیفیت بالا",
+      "کم‌مصرف"
+    ],
+    "relatedSlugs": [
+      "lg-front-load-8kg-f4v5",
+      "ariston-front-7kg"
+    ],
+    "publishedAt": "2026-04-05",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-2004",
+    "slug": "snowa-top-load-8kg",
+    "name": "ماشین لباسشویی اسنوا درب از بالا ۸ کیلو",
+    "category": "washer",
+    "brand": "snowa",
+    "price": 22400000,
+    "compareAtPrice": 25000000,
+    "stock": 18,
+    "rating": 4.2,
+    "reviewCount": 267,
+    "shortDescription": "لباسشویی درب از بالا با فضای نصب کم و مناسب آشپزخانه‌های کوچک.",
+    "description": "اسنوا درب از بالا با عرض کم، گزینه مناسبی برای آشپزخانه‌هایی است که فضای کمی دارند. اضافه کردن لباس در میانه شست‌وشو بدون قطع برنامه ممکن است.",
+    "highlights": [
+      "مناسب فضاهای کوچک",
+      "افزودن لباس در میانه شست‌وشو",
+      "۱۲ برنامه شست‌وشو",
+      "گارانتی ۱۸ ماهه با خدمات سراسری"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "درب از بالا",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۸ کیلوگرم",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۵۵ × ۹۰ × ۵۵ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "snowa",
+      "capacity": 8,
+      "capacityUnit": "کیلوگرم",
+      "energyRating": "A+",
+      "color": "سفید",
+      "widthCm": 55,
+      "heightCm": 90,
+      "depthCm": 55,
+      "inverter": false,
+      "warrantyMonths": 18,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "اقتصادی",
+      "پرفروش"
+    ],
+    "relatedSlugs": [
+      "emersun-front-7kg",
+      "samsung-eco-bubble-9kg"
+    ],
+    "publishedAt": "2026-01-28",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-2005",
+    "slug": "emersun-front-7kg",
+    "name": "ماشین لباسشویی امرسان درب از جلو ۷ کیلو",
+    "category": "washer",
+    "brand": "emersun",
+    "price": 18900000,
+    "compareAtPrice": 21500000,
+    "stock": 25,
+    "rating": 4,
+    "reviewCount": 402,
+    "shortDescription": "ارزان‌ترین لباسشویی اینورتر ۷ کیلویی بازار با گارانتی معتبر.",
+    "description": "امرسان ۷ کیلو برای زوج‌های جوان و خانواده‌های کم‌جمعیت طراحی شده است. مصرف آب و برق آن استاندارد است و قطعات آن به‌راحتی در بازار پیدا می‌شود.",
+    "highlights": [
+      "قیمت اقتصادی برای شروع",
+      "موتور اینورتر کم‌صدا",
+      "۱۰ برنامه شست‌وشو",
+      "مناسب خانواده ۲ تا ۳ نفره"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "درب از جلو",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۷ کیلوگرم",
+        "group": "technical"
+      },
+      {
+        "label": "دور موتور",
+        "value": "۱۰۰۰ دور در دقیقه",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۶۰ × ۸۵ × ۵۲ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "emersun",
+      "capacity": 7,
+      "capacityUnit": "کیلوگرم",
+      "energyRating": "A+",
+      "color": "سفید",
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 52,
+      "inverter": true,
+      "warrantyMonths": 18,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "اقتصادی",
+      "ارسال فوری"
+    ],
+    "relatedSlugs": [
+      "snowa-top-load-8kg"
+    ],
+    "publishedAt": "2026-02-22",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-2006",
+    "slug": "ariston-front-7kg",
+    "name": "ماشین لباسشویی آریستون ۷ کیلویی",
+    "category": "washer",
+    "brand": "ariston",
+    "price": 34700000,
+    "compareAtPrice": null,
+    "stock": 0,
+    "rating": 4.3,
+    "reviewCount": 61,
+    "shortDescription": "طراحی ایتالیایی با دریچه پهن برای بارگیری راحت لباس.",
+    "description": "آریستون با دریچه بزرگ ۳۴ سانتی‌متری، بارگیری و تخلیه لباس را ساده می‌کند. برنامه ضدچروک آن نیاز به اتوی زیاد را کاهش می‌دهد.",
+    "highlights": [
+      "دریچه پهن برای بارگیری راحت",
+      "برنامه ضدچروک",
+      "قفل کودک",
+      "طراحی ایتالیایی"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "درب از جلو",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۷ کیلوگرم",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۶۰ × ۸۵ × ۵۵ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "ariston",
+      "capacity": 7,
+      "capacityUnit": "کیلوگرم",
+      "energyRating": "A+",
+      "color": "سفید",
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 55,
+      "inverter": false,
+      "warrantyMonths": 24,
+      "madeIn": "ایتالیا",
+      "installmentAvailable": true,
+      "readyToShip": false
+    },
+    "tags": [
+      "ناموجود"
+    ],
+    "relatedSlugs": [
+      "bosch-serie6-washer-9kg"
+    ],
+    "publishedAt": "2025-12-05",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-3001",
+    "slug": "bosch-dishwasher-sms4-13",
+    "name": "ماشین ظرفشویی بوش مدل SMS4 ۱۳ نفره",
+    "category": "dishwasher",
+    "brand": "bosch",
+    "price": 58000000,
+    "compareAtPrice": 64000000,
+    "stock": 6,
+    "rating": 4.8,
+    "reviewCount": 143,
+    "shortDescription": "ظرفشویی ۱۳ نفره بوش با سبد انعطاف‌پذیر RackMatic و موتور کم‌صدا.",
+    "description": "بوش SMS4 با ارتفاع قابل تنظیم سبد RackMatic اجازه می‌دهد ظرف‌های بلند مانند قابلمه را هم بچینید. کارکرد کم‌صدا در شب و رده انرژی A++ آن را برای استفاده روزانه اقتصادی می‌کند.",
+    "highlights": [
+      "سبد انعطاف‌پذیر RackMatic",
+      "صدای کارکرد ۴۴ دسی‌بل",
+      "۶ برنامه شست‌وشو",
+      "ضدآب‌ریزی کامل"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "رومیزی مستقل",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۱۳ نفره",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "استیل",
+        "group": "general"
+      },
+      {
+        "label": "تعداد برنامه",
+        "value": "۶",
+        "group": "technical"
+      },
+      {
+        "label": "سطح صوتی",
+        "value": "۴۴ دسی‌بل",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۶۰ × ۸۵ × ۶۰ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A++",
+        "group": "energy"
+      },
+      {
+        "label": "مصرف آب هر دوره",
+        "value": "۹.۵ لیتر",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "bosch",
+      "capacity": 13,
+      "capacityUnit": null,
+      "energyRating": "A++",
+      "color": "استیل",
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "inverter": true,
+      "warrantyMonths": 36,
+      "madeIn": "آلمان",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "کیفیت بالا",
+      "کم‌صدا",
+      "پرفروش"
+    ],
+    "relatedSlugs": [
+      "samsung-dishwasher-dw60-14",
+      "snowa-dishwasher-14"
+    ],
+    "publishedAt": "2026-05-11",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-3002",
+    "slug": "samsung-dishwasher-dw60-14",
+    "name": "ماشین ظرفشویی سامسونگ مدل DW60 ۱۴ نفره",
+    "category": "dishwasher",
+    "brand": "samsung",
+    "price": 47500000,
+    "compareAtPrice": 52300000,
+    "stock": 8,
+    "rating": 4.5,
+    "reviewCount": 118,
+    "shortDescription": "ظرفشویی ۱۴ نفره با نازل آبگردان و برنامه شست‌وشوی سریع ۳۵ دقیقه.",
+    "description": "سامسونگ DW60 با فناوری WaterWall به‌جای پره چرخان، آب را با فشار بالا روی ظرف‌ها می‌پاشد و پوشش بهتری روی سبدهای گوشه‌ای دارد.",
+    "highlights": [
+      "فناوری WaterWall برای پوشش کامل",
+      "برنامه سریع ۳۵ دقیقه‌ای",
+      "خشک‌کن با جریان هوای گرم",
+      "سبد سوم برای قاشق و چنگال"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "رومیزی مستقل",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۱۴ نفره",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "استیل",
+        "group": "general"
+      },
+      {
+        "label": "تعداد برنامه",
+        "value": "۷",
+        "group": "technical"
+      },
+      {
+        "label": "سطح صوتی",
+        "value": "۴۶ دسی‌بل",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۶۰ × ۸۵ × ۶۰ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A++",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "samsung",
+      "capacity": 14,
+      "capacityUnit": null,
+      "energyRating": "A++",
+      "color": "استیل",
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "inverter": true,
+      "warrantyMonths": 24,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "تخفیف ویژه",
+      "ارسال فوری"
+    ],
+    "relatedSlugs": [
+      "bosch-dishwasher-sms4-13",
+      "snowa-dishwasher-14"
+    ],
+    "publishedAt": "2026-06-02",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-3003",
+    "slug": "snowa-dishwasher-14",
+    "name": "ماشین ظرفشویی اسنوا ۱۴ نفره مدل SDW14",
+    "category": "dishwasher",
+    "brand": "snowa",
+    "price": 33800000,
+    "compareAtPrice": null,
+    "stock": 11,
+    "rating": 4.2,
+    "reviewCount": 189,
+    "shortDescription": "ظرفشویی ۱۴ نفره اقتصادی با خدمات پس از فروش سراسری در ایران.",
+    "description": "اسنوا SDW14 با قیمت مناسب، گزینه‌ای منطقی برای خانواده‌های ایرانی است. هشت برنامه شست‌وشو و تاخیرانداز ۲۴ ساعته از امکانات آن است.",
+    "highlights": [
+      "قیمت رقابتی نسبت به رقبای خارجی",
+      "تاخیرانداز تا ۲۴ ساعت",
+      "۸ برنامه شست‌وشو",
+      "سرویس‌های سراسری در ایران"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "رومیزی مستقل",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۱۴ نفره",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "تعداد برنامه",
+        "value": "۸",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۶۰ × ۸۵ × ۶۰ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "snowa",
+      "capacity": 14,
+      "capacityUnit": null,
+      "energyRating": "A+",
+      "color": "سفید",
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "inverter": false,
+      "warrantyMonths": 18,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "اقتصادی",
+      "پرفروش"
+    ],
+    "relatedSlugs": [
+      "samsung-dishwasher-dw60-14",
+      "bosch-dishwasher-sms4-13"
+    ],
+    "publishedAt": "2026-03-19",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-4001",
+    "slug": "samsung-qled-55-q70",
+    "name": "تلویزیون سامسونگ QLED ۵۵ اینچ مدل Q70",
+    "category": "tv",
+    "brand": "samsung",
+    "price": 68000000,
+    "compareAtPrice": 74500000,
+    "stock": 10,
+    "rating": 4.7,
+    "reviewCount": 96,
+    "shortDescription": "تلویزیون QLED ۴K با نرخ نوسازی ۱۲۰ هرتز و سیستم هوشمند تایزن.",
+    "description": "فناوری کوانتوم دات در Q70 رنگ‌های خالص‌تر و روشنایی بالاتری نسبت به LED معمولی ارائه می‌دهد. نرخ نوسازی ۱۲۰ هرتز تجربه بازی و تماشای ورزش را روان‌تر می‌کند.",
+    "highlights": [
+      "فناوری کوانتوم دات با رنگ‌های خالص",
+      "نرخ نوسازی ۱۲۰ هرتز",
+      "سیستم هوشمند تایزن با فارسی",
+      "ریموت خورشیدی بدون باتری"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "QLED",
+        "group": "general"
+      },
+      {
+        "label": "سیستم‌عامل",
+        "value": "Tizen",
+        "group": "general"
+      },
+      {
+        "label": "سایز",
+        "value": "۵۵ اینچ",
+        "group": "technical"
+      },
+      {
+        "label": "رزولوشن",
+        "value": "۳۸۴۰ × ۲۱۶۰ (4K)",
+        "group": "technical"
+      },
+      {
+        "label": "نرخ نوسازی",
+        "value": "۱۲۰ هرتز",
+        "group": "technical"
+      },
+      {
+        "label": "تعداد پورت HDMI",
+        "value": "۴",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد با پایه (عرض×ارتفاع×عمق)",
+        "value": "۱۲۳ × ۷۸ × ۲۴ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "samsung",
+      "capacity": 55,
+      "capacityUnit": "اینچ",
+      "energyRating": "A+",
+      "color": "مشکی",
+      "widthCm": 123,
+      "heightCm": 78,
+      "depthCm": 24,
+      "inverter": false,
+      "warrantyMonths": 24,
+      "madeIn": "کره جنوبی",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "پرفروش",
+      "گیمینگ",
+      "ارسال فوری"
+    ],
+    "relatedSlugs": [
+      "lg-oled-55-c4",
+      "snowa-tv-50-4k"
+    ],
+    "publishedAt": "2026-07-08",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-4002",
+    "slug": "lg-oled-55-c4",
+    "name": "تلویزیون ال‌جی OLED ۵۵ اینچ مدل C4",
+    "category": "tv",
+    "brand": "lg",
+    "price": 92000000,
+    "compareAtPrice": 99000000,
+    "stock": 4,
+    "rating": 4.9,
+    "reviewCount": 68,
+    "shortDescription": "OLED با مشکی مطلق و نرخ نوسازی ۱۲۰ هرتز؛ بهترین انتخاب برای سینمای خانگی.",
+    "description": "پنل OLED ال‌جی هر پیکسل را مستقل روشن و خاموش می‌کند و مشکی کاملاً مطلق به دست می‌آید. پردازنده آلفا ۹ محتوای کم‌کیفیت را هم ارتقا می‌دهد.",
+    "highlights": [
+      "مشکی مطلق با پنل OLED",
+      "پردازنده هوش مصنوعی آلفا ۹",
+      "پشتیبانی Dolby Vision و Dolby Atmos",
+      "مناسب کنسول‌های نسل جدید"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "OLED",
+        "group": "general"
+      },
+      {
+        "label": "سیستم‌عامل",
+        "value": "webOS",
+        "group": "general"
+      },
+      {
+        "label": "سایز",
+        "value": "۵۵ اینچ",
+        "group": "technical"
+      },
+      {
+        "label": "رزولوشن",
+        "value": "۳۸۴۰ × ۲۱۶۰ (4K)",
+        "group": "technical"
+      },
+      {
+        "label": "نرخ نوسازی",
+        "value": "۱۲۰ هرتز",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد با پایه (عرض×ارتفاع×عمق)",
+        "value": "۱۲۲ × ۷۵ × ۲۳ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "lg",
+      "capacity": 55,
+      "capacityUnit": "اینچ",
+      "energyRating": "A",
+      "color": "مشکی",
+      "widthCm": 122,
+      "heightCm": 75,
+      "depthCm": 23,
+      "inverter": false,
+      "warrantyMonths": 24,
+      "madeIn": "کره جنوبی",
+      "installmentAvailable": true,
+      "readyToShip": false
+    },
+    "tags": [
+      "پرچمدار",
+      "سینمای خانگی"
+    ],
+    "relatedSlugs": [
+      "samsung-qled-55-q70"
+    ],
+    "publishedAt": "2026-06-15",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-4003",
+    "slug": "snowa-tv-50-4k",
+    "name": "تلویزیون اسنوا ۵۰ اینچ ۴K هوشمند",
+    "category": "tv",
+    "brand": "snowa",
+    "price": 26500000,
+    "compareAtPrice": 29900000,
+    "stock": 16,
+    "rating": 4.1,
+    "reviewCount": 224,
+    "shortDescription": "تلویزیون هوشمند ۵۰ اینچ ۴K با اندروید و قیمت اقتصادی.",
+    "description": "اسنوا ۵۰ اینچ با سیستم اندروید دسترسی به اپلیکیشن‌های ایرانی و خارجی را فراهم می‌کند. گزینه‌ای مناسب برای اتاق خواب و استفاده روزمره.",
+    "highlights": [
+      "سیستم اندروید با فروشگاه اپلیکیشن",
+      "رزولوشن ۴K",
+      "سه پورت HDMI",
+      "گارانتی ۱۸ ماهه داخلی"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "LED",
+        "group": "general"
+      },
+      {
+        "label": "سیستم‌عامل",
+        "value": "Android TV",
+        "group": "general"
+      },
+      {
+        "label": "سایز",
+        "value": "۵۰ اینچ",
+        "group": "technical"
+      },
+      {
+        "label": "رزولوشن",
+        "value": "۳۸۴۰ × ۲۱۶۰ (4K)",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد با پایه (عرض×ارتفاع×عمق)",
+        "value": "۱۱۲ × ۷۱ × ۲۱ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "snowa",
+      "capacity": 50,
+      "capacityUnit": "اینچ",
+      "energyRating": "A+",
+      "color": "مشکی",
+      "widthCm": 112,
+      "heightCm": 71,
+      "depthCm": 21,
+      "inverter": false,
+      "warrantyMonths": 18,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "اقتصادی",
+      "پرفروش"
+    ],
+    "relatedSlugs": [
+      "samsung-qled-55-q70"
+    ],
+    "publishedAt": "2026-04-27",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-5001",
+    "slug": "midea-split-18000-inverter",
+    "name": "کولر گازی مایدیا ۱۸۰۰۰ اینورتر",
+    "category": "air-conditioner",
+    "brand": "midea",
+    "price": 41000000,
+    "compareAtPrice": 45200000,
+    "stock": 12,
+    "rating": 4.5,
+    "reviewCount": 176,
+    "shortDescription": "اسپلیت ۱۸۰۰۰ اینورتر با مصرف برق پایین و گاز مبرد R410a.",
+    "description": "کولر گازی اینورتر مایدیا سرعت کمپرسور را بر اساس دمای اتاق تنظیم می‌کند و تا ۶۰٪ در مصرف برق صرفه‌جویی می‌کند. حالت خواب و تایمر ۲۴ ساعته از امکانات آن است.",
+    "highlights": [
+      "کمپرسور اینورتر با گارانتی ۵ ساله",
+      "صرفه‌جویی تا ۶۰٪ در مصرف برق",
+      "حالت خواب و تایمر ۲۴ ساعته",
+      "فیلتر تصفیه هوا"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "اسپلیت دیواری",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۱۸۰۰۰ BTU",
+        "group": "technical"
+      },
+      {
+        "label": "نوع کمپرسور",
+        "value": "اینورتر",
+        "group": "technical"
+      },
+      {
+        "label": "گاز مبرد",
+        "value": "R410a",
+        "group": "technical"
+      },
+      {
+        "label": "مناسب متراژ",
+        "value": "۳۵ تا ۵۰ متر مربع",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد واحد داخلی",
+        "value": "۱۰۵ × ۳۲ × ۲۳ سانتی‌متر",
+        "group": "dimensions"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A++",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "midea",
+      "capacity": 18000,
+      "capacityUnit": null,
+      "energyRating": "A++",
+      "color": "سفید",
+      "widthCm": 105,
+      "heightCm": null,
+      "depthCm": null,
+      "inverter": true,
+      "warrantyMonths": 60,
+      "madeIn": "چین",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "پرفروش",
+      "کم‌مصرف",
+      "ارسال فوری"
+    ],
+    "relatedSlugs": [
+      "snowa-split-12000"
+    ],
+    "publishedAt": "2026-05-30",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-5002",
+    "slug": "snowa-split-12000",
+    "name": "کولر گازی اسنوا ۱۲۰۰۰ اینورتر",
+    "category": "air-conditioner",
+    "brand": "snowa",
+    "price": 32700000,
+    "compareAtPrice": null,
+    "stock": 15,
+    "rating": 4.3,
+    "reviewCount": 209,
+    "shortDescription": "اسپلیت ۱۲۰۰۰ مناسب اتاق‌های ۲۰ تا ۳۰ متری با خدمات سراسری.",
+    "description": "اسنوا ۱۲۰۰۰ برای اتاق خواب و اتاق کار با متراژ متوسط طراحی شده است. گاز مبرد سازگار با محیط زیست و شبکه خدمات پس از فروش گسترده از مزایای آن است.",
+    "highlights": [
+      "مناسب اتاق ۲۰ تا ۳۰ متری",
+      "گاز مبرد سازگار با محیط زیست",
+      "شبکه خدمات سراسری",
+      "فیلتر قابل شست‌وشو"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "اسپلیت دیواری",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "سفید",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۱۲۰۰۰ BTU",
+        "group": "technical"
+      },
+      {
+        "label": "نوع کمپرسور",
+        "value": "اینورتر",
+        "group": "technical"
+      },
+      {
+        "label": "مناسب متراژ",
+        "value": "۲۰ تا ۳۰ متر مربع",
+        "group": "technical"
+      },
+      {
+        "label": "رده انرژی",
+        "value": "A+",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "snowa",
+      "capacity": 12000,
+      "capacityUnit": null,
+      "energyRating": "A+",
+      "color": "سفید",
+      "widthCm": 90,
+      "heightCm": null,
+      "depthCm": null,
+      "inverter": true,
+      "warrantyMonths": 60,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "اقتصادی",
+      "پرفروش"
+    ],
+    "relatedSlugs": [
+      "midea-split-18000-inverter"
+    ],
+    "publishedAt": "2026-04-02",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-6001",
+    "slug": "bosch-vacuum-pro-animal",
+    "name": "جاروبرقی بوش مدل ProAnimal مخزنی",
+    "category": "vacuum",
+    "brand": "bosch",
+    "price": 14500000,
+    "compareAtPrice": 16200000,
+    "stock": 20,
+    "rating": 4.6,
+    "reviewCount": 134,
+    "shortDescription": "جاروبرقی مخزنی با توان مکش بالا و سری مخصوص مو و پرز حیوانات.",
+    "description": "بوش ProAnimal با برس مخصوص، مو و پرز حیوانات خانگی را از فرش و مبل جمع می‌کند. فیلتر HEPA ذرات ریز و آلرژن‌ها را در مخزن نگه می‌دارد.",
+    "highlights": [
+      "سری مخصوص پرز و موی حیوانات",
+      "فیلتر HEPA قابل شست‌وشو",
+      "مخزن ۴ لیتری بدون کیسه",
+      "سطح صدای پایین"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "مخزنی",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "مشکی و آبی",
+        "group": "general"
+      },
+      {
+        "label": "توان",
+        "value": "۲۲۰۰ وات",
+        "group": "technical"
+      },
+      {
+        "label": "ظرفیت مخزن",
+        "value": "۴ لیتر",
+        "group": "technical"
+      },
+      {
+        "label": "فیلتر",
+        "value": "HEPA",
+        "group": "technical"
+      },
+      {
+        "label": "طول سیم",
+        "value": "۷ متر",
+        "group": "technical"
+      },
+      {
+        "label": "سطح صدا",
+        "value": "۷۸ دسی‌بل",
+        "group": "energy"
+      }
+    ],
+    "attributes": {
+      "brand": "bosch",
+      "capacity": 4,
+      "capacityUnit": "لیتر",
+      "energyRating": null,
+      "color": "مشکی",
+      "widthCm": null,
+      "heightCm": null,
+      "depthCm": null,
+      "inverter": false,
+      "warrantyMonths": 24,
+      "madeIn": "آلمان",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "پرفروش",
+      "مناسب حیوانات خانگی"
+    ],
+    "relatedSlugs": [
+      "pars-khazar-vacuum-2200"
+    ],
+    "publishedAt": "2026-06-06",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-6002",
+    "slug": "pars-khazar-vacuum-2200",
+    "name": "جاروبرقی پارس خزر مدل ۲۲۰۰ وات",
+    "category": "vacuum",
+    "brand": "pars-khazar",
+    "price": 6800000,
+    "compareAtPrice": 7900000,
+    "stock": 30,
+    "rating": 4,
+    "reviewCount": 512,
+    "shortDescription": "جاروبرقی کیسه‌دار اقتصادی با توان مکش مناسب و وزن سبک.",
+    "description": "پارس خزر ۲۲۰۰ وات گزینه‌ای مقرون‌به‌صرفه برای مصارف روزمره است. وزن سبک و چرخ‌های نرم جابه‌جایی آن را راحت می‌کند.",
+    "highlights": [
+      "قیمت بسیار اقتصادی",
+      "وزن سبک و جابه‌جایی راحت",
+      "کیسه قابل تعویض و در دسترس",
+      "گارانتی ۱۸ ماهه"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "کیسه‌دار",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "قرمز و مشکی",
+        "group": "general"
+      },
+      {
+        "label": "توان",
+        "value": "۲۲۰۰ وات",
+        "group": "technical"
+      },
+      {
+        "label": "ظرفیت کیسه",
+        "value": "۳ لیتر",
+        "group": "technical"
+      },
+      {
+        "label": "طول سیم",
+        "value": "۵ متر",
+        "group": "technical"
+      }
+    ],
+    "attributes": {
+      "brand": "pars-khazar",
+      "capacity": 3,
+      "capacityUnit": "لیتر",
+      "energyRating": null,
+      "color": "قرمز",
+      "widthCm": null,
+      "heightCm": null,
+      "depthCm": null,
+      "inverter": false,
+      "warrantyMonths": 18,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "اقتصادی",
+      "پرفروش",
+      "ارسال فوری"
+    ],
+    "relatedSlugs": [
+      "bosch-vacuum-pro-animal"
+    ],
+    "publishedAt": "2026-01-15",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-7001",
+    "slug": "pakshoma-gas-5-burner",
+    "name": "اجاق گاز پاکشوما پنج شعله مدل ۵۰۰۰",
+    "category": "oven",
+    "brand": "pakshoma",
+    "price": 24000000,
+    "compareAtPrice": 27500000,
+    "stock": 9,
+    "rating": 4.4,
+    "reviewCount": 98,
+    "shortDescription": "اجاق گاز پنج شعله با ترموکوپل، شعله پلوپز و بدنه استیل ضدخش.",
+    "description": "پاکشوما ۵۰۰۰ با ترموکوپل روی تمام شعله‌ها، ایمنی بالایی دارد و با قطع شعله، گاز قطع می‌شود. شعله پلوپز برای پخت برنج ایرانی طراحی شده است.",
+    "highlights": [
+      "ترموکوپل روی همه شعله‌ها",
+      "شعله پلوپز مخصوص برنج ایرانی",
+      "بدنه استیل ضدخش",
+      "فر با جوجه‌گردان"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "پنج شعله",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "استیل",
+        "group": "general"
+      },
+      {
+        "label": "تعداد شعله",
+        "value": "۵",
+        "group": "technical"
+      },
+      {
+        "label": "سیستم ایمنی",
+        "value": "ترموکوپل",
+        "group": "technical"
+      },
+      {
+        "label": "ابعاد (عرض×ارتفاع×عمق)",
+        "value": "۱۱۰ × ۹۰ × ۶۰ سانتی‌متر",
+        "group": "dimensions"
+      }
+    ],
+    "attributes": {
+      "brand": "pakshoma",
+      "capacity": null,
+      "capacityUnit": null,
+      "energyRating": null,
+      "color": "استیل",
+      "widthCm": 110,
+      "heightCm": 90,
+      "depthCm": 60,
+      "inverter": false,
+      "warrantyMonths": 18,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "پرفروش",
+      "ارسال فوری"
+    ],
+    "relatedSlugs": [],
+    "publishedAt": "2026-03-08",
+    "images": [],
+    "videoUrl": null
+  },
+  {
+    "id": "p-8001",
+    "slug": "pars-khazar-tea-maker-3l",
+    "name": "چای‌ساز پارس خزر مدل ۳ لیتری",
+    "category": "small-appliance",
+    "brand": "pars-khazar",
+    "price": 4200000,
+    "compareAtPrice": 4900000,
+    "stock": 45,
+    "rating": 4.3,
+    "reviewCount": 623,
+    "shortDescription": "چای‌ساز ۳ لیتری با کتری استیل و قوری پیرکس و قطع خودکار.",
+    "description": "چای‌ساز پارس خزر با کتری استیل ضدزنگ و قوری پیرکس، دم‌آوری یکنواخت چای را تضمین می‌کند. سیستم قطع خودکار از سوختن کتری جلوگیری می‌کند.",
+    "highlights": [
+      "قطع خودکار هنگام جوشیدن",
+      "کتری استیل و قوری پیرکس",
+      "مصرف برق بهینه",
+      "بدنه مقاوم در برابر حرارت"
+    ],
+    "specs": [
+      {
+        "label": "نوع",
+        "value": "چای‌ساز",
+        "group": "general"
+      },
+      {
+        "label": "رنگ",
+        "value": "استیل",
+        "group": "general"
+      },
+      {
+        "label": "ظرفیت",
+        "value": "۳ لیتر",
+        "group": "technical"
+      },
+      {
+        "label": "توان",
+        "value": "۱۳۰۰ وات",
+        "group": "technical"
+      }
+    ],
+    "attributes": {
+      "brand": "pars-khazar",
+      "capacity": 3,
+      "capacityUnit": "لیتر",
+      "energyRating": null,
+      "color": "استیل",
+      "widthCm": null,
+      "heightCm": null,
+      "depthCm": null,
+      "inverter": false,
+      "warrantyMonths": 12,
+      "madeIn": "ایران",
+      "installmentAvailable": true,
+      "readyToShip": true
+    },
+    "tags": [
+      "اقتصادی",
+      "پرفروش",
+      "ارسال فوری"
+    ],
+    "relatedSlugs": [],
+    "publishedAt": "2026-02-01",
+    "images": [],
+    "videoUrl": null
+  }
+]
